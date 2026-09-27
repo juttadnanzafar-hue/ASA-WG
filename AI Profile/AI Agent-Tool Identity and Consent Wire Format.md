@@ -1,4 +1,4 @@
-# AI Agent–Tool Identity & Consent Wire Format
+# Agent–Tool Identity & Consent Wire Format
 
 > **Status: OPTIONAL conformance profile — not required for ADA certification.**
 >
