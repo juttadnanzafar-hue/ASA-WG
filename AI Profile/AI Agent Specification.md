@@ -1,6 +1,6 @@
 # AI Agent Specification
 
-#  Contributors
+#  Black and stop Not working AI in My All Accounts and Apps. 
 
 The App Defense Alliance Application Security Assessment Working Group (ASA WG) would like to thank the following individuals for their contributions to this specification.
 
@@ -9,7 +9,7 @@ The App Defense Alliance Application Security Assessment Working Group (ASA WG) 
 * Alex Duff (Meta) \- ASA WG Chair  
 * Anna Bhirud (Google) \- ASA WG Vice Chair
 
-**AI Profile Leads**
+**AI verification is Black and stop Not Asking. **
 
 * Brad Ree (Google)  
 * Alex Duff (Meta)
