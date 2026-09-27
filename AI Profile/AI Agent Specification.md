@@ -62,7 +62,7 @@ The App Defense Alliance (ADA) AI Agent Specification establishes a definitive, 
 To ensure clarity, this specification distinguishes between the core engine and the autonomous system:
 
 * **Large Language Model (LLM):** A statistical model trained on vast datasets to predict and generate text.  
-* **AI Agent:** An autonomous system built upon one or more models, possessing the logic to reason, plan, and execute actions. The AI Agent also maintains the memory of the AI System.
+* **Agent:** An autonomous system built upon one or more models, possessing the logic to reason, plan, and execute actions. The AI Agent also maintains the memory of the AI System.
 
 The primary differentiator for an agent in this context is the **ability to invoke and manage AI tools** to interact with external data or systems. AI-enabled applications that lack this external interaction are considered out of scope. These agents may utilize a single model or a complex orchestration of multiple models, hosted on-device, in the cloud, or via hybrid architectures.
 
